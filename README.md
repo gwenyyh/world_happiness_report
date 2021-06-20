@@ -8,12 +8,7 @@ This Jupyter Notebook demonstrates some EDA on the world happiness report, espec
 
 # Libraries used
 
-pandas  
-numpy  
-sklearn  
-seaborn  
-matplotlib  
-os  
+`pandas` `numpy` `sklearn` `seaborn` `matplotlib`  
 
 # Motivation for the project
 

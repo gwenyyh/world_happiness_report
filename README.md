@@ -6,6 +6,8 @@ This Jupyter Notebook demonstrates some EDA on the world happiness report, espec
 - which is more important, money or health, when it comes to predicting happiness
 - how well can the two predict happiness
 
+More details please read my medium blog <a href="https://yinghuiyang-63486.medium.com/what-brings-happiness-money-or-health-5b6dff06cc6">What Brings Happiness, Money or Health?</a>. 
+
 # Libraries used
 
 `pandas` `numpy` `sklearn` `seaborn` `matplotlib`  
